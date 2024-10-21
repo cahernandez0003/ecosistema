@@ -1,0 +1,16 @@
+footer.nuevofoot{
+	background-color: #ff9000;
+	margin-top: 70px;
+	color: black;
+	height: 40px;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+footer p{
+	line-height: 40px;
+}
+body{
+	font-family: Arial;
+	overflow-x: hidden;
+}
